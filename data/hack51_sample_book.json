@@ -1,0 +1,837 @@
+[
+  {
+    "title": "The Catcher in the Rye",
+    "author": "J.D. Salinger",
+    "genre": "Fiction",
+    "coverImage": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1398034300i/5107.jpg",
+    "rating": 4.9,
+    "price": 25000
+  },
+  {
+    "title": "To Kill a Mockingbird",
+    "author": "Harper Lee",
+    "genre": "Fiction",
+    "coverImage": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1553383690i/2657.jpg",
+    "rating": 3.2,
+    "price": 25000
+  },
+  {
+    "title": "1984",
+    "author": "George Orwell",
+    "genre": "Dystopian",
+    "coverImage": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1657781256i/61439040.jpg",
+    "rating": 4.1,
+    "price": 25000
+  },
+  {
+    "title": "A Brief History of Time",
+    "author": "Stephen Hawking",
+    "genre": "Science",
+    "coverImage": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1333578746i/3869.jpg",
+    "rating": 4.2,
+    "price": 25000
+  },
+  {
+    "title": "The Great Gatsby",
+    "author": "F. Scott Fitzgerald",
+    "genre": "Classics",
+    "coverImage": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1490528560i/4671.jpg",
+    "rating": 3.9,
+    "price": 25000
+  },
+  {
+    "title": "The Lean Startup",
+    "author": "Eric Ries",
+    "genre": "Business",
+    "coverImage": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1629999184i/10127019.jpg",
+    "rating": 4.1,
+    "price": 25000
+  },
+  {
+    "title": "The Art of War",
+    "author": "Sun Tzu",
+    "genre": "Philosophy",
+    "coverImage": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1630683326i/10534.jpg",
+    "rating": 3.9,
+    "price": 25000
+  },
+  {
+    "title": "Pride and Prejudice",
+    "author": "Jane Austen",
+    "genre": "Romance",
+    "coverImage": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1320399351i/1885.jpg",
+    "rating": 4.2,
+    "price": 25000
+  },
+  {
+    "title": "Sapiens: A Brief History of Humankind",
+    "author": "Yuval Noah Harari",
+    "genre": "History",
+    "coverImage": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1703329310i/23692271.jpg",
+    "rating": 4.3,
+    "price": 25000
+  },
+  {
+    "title": "The Road",
+    "author": "Cormac McCarthy",
+    "genre": "Post-Apocalyptic",
+    "coverImage": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1600241424i/6288.jpg",
+    "rating": 3.9,
+    "price": 25000
+  },
+  {
+    "title": "The Pragmatic Programmer",
+    "author": "Andrew Hunt and David Thomas",
+    "genre": "Technology",
+    "coverImage": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1401432508i/4099.jpg",
+    "rating": 4.3,
+    "price": 25000
+  },
+  {
+    "title": "Clean Code",
+    "author": "Robert C. Martin",
+    "genre": "Technology",
+    "coverImage": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1436202607i/3735293.jpg",
+    "rating": 4.3,
+    "price": 25000
+  },
+  {
+    "title": "Design Patterns",
+    "author": "Erich Gamma, Richard Helm, Ralph Johnson, and John Vlissides",
+    "genre": "Technology",
+    "coverImage": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1348027904i/85009.jpg",
+    "rating": 4.2,
+    "price": 25000
+  },
+  {
+    "title": "The Design of Everyday Things",
+    "author": "Don Norman",
+    "genre": "Design",
+    "coverImage": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1442460745i/840.jpg",
+    "rating": 4.1,
+    "price": 25000
+  },
+  {
+    "title": "Cracking the Coding Interview",
+    "author": "Gayle Laakmann McDowell",
+    "genre": "Technology",
+    "coverImage": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1391311964i/12544648.jpg",
+    "rating": "4.3",
+    "price": 25000
+  },
+  {
+    "title": "The Power of Habit",
+    "author": "Charles Duhigg",
+    "genre": "Self-Help",
+    "coverImage": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1545854312i/12609433.jpg",
+    "rating": 4.1,
+    "price": 25000
+  },
+  {
+    "title": "Atomic Habits",
+    "author": "James Clear",
+    "genre": "Self-Help",
+    "coverImage": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1655988385i/40121378.jpg",
+    "rating": 4.3,
+    "price": 25000
+  },
+  {
+    "title": "The Subtle Art of Not Giving a F*ck",
+    "author": "Mark Manson",
+    "genre": "Self-Help",
+    "coverImage": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1465761302i/28257707.jpg",
+    "rating": 3.8,
+    "price": 25000
+  },
+  {
+    "title": "Thinking, Fast and Slow",
+    "author": "Daniel Kahneman",
+    "genre": "Psychology",
+    "coverImage": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1317793965i/11468377.jpg",
+    "rating": 4.1,
+    "price": 25000
+  },
+  {
+    "title": "Meditations",
+    "author": "Marcus Aurelius",
+    "genre": "Philosophy",
+    "coverImage": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1421618636i/30659.jpg",
+    "rating": 4.2,
+    "price": 25000
+  },
+
+  {
+    "title": "Browsing with HttpClient",
+    "genre": "Programming",
+    "coverImage": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/goyal1.jpg",
+    "description": "Written for developers and architects with real work to do, the Jakarta Commons Online Bookshelf is a collection of 14 PDF modules, each focused on one of the main Commons components. Commons is a collection of over twenty open-source Java tools broadly ranging from logging, validation, bean utilities and XML parsing. The Jakarta Commons Online Bookshelf summarizes the rationale behind each component and then provides expert explanations and hands-on examples of their use. You will learn to easily incorporate the Jakarta Commons components into your existing Java applications.",
+    "rating": 5,
+    "price": 22032
+  },
+  {
+    "title": "The Joy of Clojure",
+    "genre": "Programming",
+    "coverImage": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/fogus.jpg",
+    "description": "The Joy of Clojure goes beyond just syntax to show you how to write fluent and idiomatic Clojure code. You'll learn a functional approach to Programming and will master Lisp techniques that make Clojure so elegant and efficient. The book gives you easy access to hard soft ware areas like concurrency, interoperability, and performance. And it shows you how great it can be to think about problems the Clojure way.",
+    "rating": 3.4,
+    "price": 27434
+  },
+  {
+    "title": "MacRuby in Action",
+    "author": "Jeremy McAnally",
+    "genre": "Programming",
+    "coverImage": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/lim.jpg",
+    "rating": 4.4,
+    "price": 10880
+  },
+  {
+    "title": "OSGi in Action",
+    "author": "Karl Pauls",
+    "genre": "Programming",
+    "coverImage": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/hall.jpg",
+    "description": "OSGi in Action is a comprehensive guide to OSGi with two primary goals. First, it provides a clear introduction to OSGi concepts with examples that are relevant both for architects and developers. The central idea of OSGi is modularity, so you start by learning about OSGi bundles. You'll then see how OSGi handles module lifecycles and follow up with how it promotes service-oriented interaction among application components.",
+    "rating": 3.7,
+    "price": 14563
+  },
+  {
+    "title": "Making Java Groovy",
+    "genre": "Programming",
+    "coverImage": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/kousen.jpg",
+    "description": "Making Java Groovy is a practical handbook for developers who want to blend Groovy into their day-to-day work with Java. It starts by introducing the key differences between Java and Groovy   and how you can use them to your advantage. Then, it guides you step-by-step through realistic development challenges, from web applications to web services to desktop applications, and shows how Groovy makes them easier to put into production.",
+    "rating": 4.3,
+    "price": 11031
+  },
+  {
+    "title": "Learn Active Directory Management in a Month of Lunches",
+    "genre": "Programming",
+    "coverImage": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/siddaway3.jpg",
+    "rating": 3.8,
+    "price": 27732
+  },
+
+  {
+    "id": 709,
+    "title": "The Power of Habit: Why We Do What We Do in Life and Business",
+    "authors": "Charles Duhigg",
+    "genre": "Health, Fitness & Dieting",
+    "coverImage": "https://images-na.ssl-images-amazon.com/images/I/517FwF49v+L._SY344_BO1,204,203,200_.jpg",
+    "rating": 3,
+    "price": 21096
+  },
+
+  {
+    "id": 122,
+    "title": "The Duke and I: The (Bridgertons Book 1)",
+    "authors": "Julia Quinn",
+    "genre": "Literature & Fiction",
+    "coverImage": "https://images-na.ssl-images-amazon.com/images/I/51EmwLRVG8L._SY291_BO1,204,203,200_QL40_ML2_.jpg",
+    "rating": 4.4,
+    "price": 12486
+  },
+  {
+    "id": 999,
+    "title": "Grit: The Power of Passion and Perseverance",
+    "authors": "Angela Duckworth",
+    "genre": "Health, Fitness & Dieting",
+    "coverImage": "https://images-na.ssl-images-amazon.com/images/I/51r1FcTxyhL._SY291_BO1,204,203,200_QL40_FMwebp_.jpg",
+    "rating": 3.5,
+    "price": 21416
+  },
+
+  {
+    "id": 299,
+    "title": "Voyager (Outlander)",
+    "authors": "Diana Gabaldon",
+    "genre": "Literature & Fiction",
+    "coverImage": "https://images-na.ssl-images-amazon.com/images/I/41SsKD7DnrL._SY291_BO1,204,203,200_QL40_FMwebp_.jpg",
+    "rating": 4.7,
+    "price": 17738
+  },
+
+  {
+    "id": 125,
+    "title": "A People's History of the United States",
+    "authors": "Howard Zinn",
+    "genre": "History",
+    "coverImage": "https://images-na.ssl-images-amazon.com/images/I/41JK-Af6EjL._SY291_BO1,204,203,200_QL40_FMwebp_.jpg",
+    "rating": 3.2,
+    "price": 12567
+  },
+  {
+    "id": 1420,
+    "title": "Communist Manifesto (Chiron Academic Press - The Original Authoritative Edition) (2016)",
+    "authors": "Karl MarxFriedrich Engels",
+    "genre": "Politics & Social Sciences",
+    "coverImage": "https://images-na.ssl-images-amazon.com/images/I/4177121MV1L._SY291_BO1,204,203,200_QL40_FMwebp_.jpg",
+    "rating": 4.2,
+    "price": 7048
+  },
+
+  {
+    "id": 408,
+    "title": "An Echo in the Bone: A Novel (Outlander)",
+    "authors": "Diana Gabaldon",
+    "genre": "Literature & Fiction",
+    "coverImage": "https://images-na.ssl-images-amazon.com/images/I/4152CAz3RzL._SY291_BO1,204,203,200_QL40_FMwebp_.jpg",
+    "rating": 3.4,
+    "price": 21895
+  },
+
+  {
+    "id": 681,
+    "title": "The Mirror & the Light: A Novel (Wolf Hall Trilogy, 3)",
+    "authors": "Hilary Mantel",
+    "genre": "Literature & Fiction",
+    "coverImage": "https://images-na.ssl-images-amazon.com/images/I/51ruXud0wVL._SY291_BO1,204,203,200_QL40_FMwebp_.jpg",
+    "rating": 3.2,
+    "price": 12347
+  },
+  {
+    "id": 756,
+    "title": "Grey: Fifty Shades of Grey as Told by Christian (Fifty Shades Of Grey Series, 4)",
+    "authors": "E L James",
+    "genre": "Literature & Fiction",
+    "coverImage": "https://images-na.ssl-images-amazon.com/images/I/41U+Zic+f4L._SY344_BO1,204,203,200_.jpg",
+    "rating": 3.1,
+    "price": 29097
+  },
+
+  {
+    "id": 184,
+    "title": "Shantaram: A Novel",
+    "authors": "Gregory David Roberts",
+    "genre": "Literature & Fiction",
+    "coverImage": "https://images-na.ssl-images-amazon.com/images/I/519-+MrZlKL._SY344_BO1,204,203,200_.jpg",
+    "rating": 3.1,
+    "price": 11374
+  },
+
+  {
+    "id": 846,
+    "title": "Ender's Game (The Ender Saga, 1)",
+    "authors": "Orson Scott Card",
+    "genre": "Science Fiction & Fantasy",
+    "coverImage": "https://images-na.ssl-images-amazon.com/images/I/51mFjc1H1xS._SY291_BO1,204,203,200_QL40_FMwebp_.jpg",
+    "rating": 4,
+    "price": 19688
+  },
+  {
+    "id": 643,
+    "title": "Ender's Game (The Ender Saga, 1)",
+    "authors": "Orson Scott Card",
+    "genre": "Science Fiction & Fantasy",
+    "coverImage": "https://images-na.ssl-images-amazon.com/images/I/51Goqx0YvaL._SY291_BO1,204,203,200_QL40_FMwebp_.jpg",
+    "rating": 3,
+    "price": 27588
+  },
+  {
+    "title": "ActiveMQ in Action",
+    "author": "Dejan Bosanac",
+    "genre": "Programming",
+    "coverImage": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/snyder.jpg",
+    "description": "ActiveMQ is implemented in Java, but it supports client applications written in many other Programming languages including C/C++, .NET, Ruby, Perl, PHP, Python, and more. It can be integrated with other open source frameworks including Tomcat, ServiceMix, JBoss, and can easily bridge to other JMS providers.  ",
+    "rating": 4.1,
+    "price": 18225
+  },
+
+  {
+    "id": 1270,
+    "title": "The Spell Book for New Witches: Essential Spells to Change Your Life",
+    "authors": "Ambrosia Hawthorn",
+    "genre": "Religion & Spirituality",
+    "coverImage": "https://images-na.ssl-images-amazon.com/images/I/51HpBKivMeL._SY291_BO1,204,203,200_QL40_ML2_.jpg",
+    "rating": 3.4,
+    "price": 27837
+  },
+
+  {
+    "id": 857,
+    "title": "7 Ways: Easy Ideas for Every Day of the Week [American Measurements]",
+    "authors": "Jamie Oliver",
+    "genre": "Cookbooks, Food & Wine",
+    "coverImage": "https://images-na.ssl-images-amazon.com/images/I/41sj3VzqiXL._SX218_BO1,204,203,200_QL40_FMwebp_.jpg",
+    "rating": 4.5,
+    "price": 29593
+  },
+  {
+    "id": 246,
+    "title": "Golden Girl",
+    "authors": "Elin Hilderbrand",
+    "genre": "Literature & Fiction",
+    "coverImage": "https://images-na.ssl-images-amazon.com/images/I/41k8ULDC0eL._SY291_BO1,204,203,200_QL40_FMwebp_.jpg",
+    "rating": 4.6,
+    "price": 17714
+  },
+  {
+    "id": 228,
+    "title": "The Cruel Prince (The Folk of the Air, 1)",
+    "authors": "Holly Black",
+    "genre": "Teen & Young Adult",
+    "coverImage": "https://images-na.ssl-images-amazon.com/images/I/515ZICrbYdL._SY291_BO1,204,203,200_QL40_FMwebp_.jpg",
+    "rating": 4.9,
+    "price": 13867
+  },
+  {
+    "id": 630,
+    "title": "The Way of Kings: Book One of the Stormlight Archive (The Stormlight Archive, 1)",
+    "authors": "Brandon Sanderson",
+    "genre": "Literature & Fiction",
+    "coverImage": "https://images-na.ssl-images-amazon.com/images/I/51h3KdPmE7L._SY291_BO1,204,203,200_QL40_FMwebp_.jpg",
+    "rating": 3.5,
+    "price": 29995
+  },
+  {
+    "id": 159,
+    "title": "The Monster at the End of This Book",
+    "authors": "Jon Stone",
+    "genre": "Children's Books",
+    "coverImage": "https://images-na.ssl-images-amazon.com/images/I/61Xs6x5WOwL._SX218_BO1,204,203,200_QL40_FMwebp_.jpg",
+    "rating": 4.8,
+    "price": 11104
+  },
+
+  {
+    "id": 1039,
+    "title": "Last Week Tonight with John Oliver Presents A Day in the Life of Marlon Bundo (Better Bundo Book, LGBT Children’s Book)",
+    "authors": "Jill TwissMarlon Bundo",
+    "genre": "Children's Books",
+    "coverImage": "https://images-na.ssl-images-amazon.com/images/I/51CNFwegBNL._SX218_BO1,204,203,200_QL40_FMwebp_.jpg",
+    "rating": 4.9,
+    "price": 7830
+  },
+  {
+    "id": 1156,
+    "title": "Rainbow Fish Board Book, The",
+    "authors": "Marcus Pfister",
+    "genre": "Children's Books",
+    "coverImage": "https://images-na.ssl-images-amazon.com/images/I/61tknzkYXJL._SX218_BO1,204,203,200_QL40_FMwebp_.jpg",
+    "rating": 4.8,
+    "price": 12840
+  },
+
+  {
+    "id": 221,
+    "title": "The Night Fire (A Renée Ballard and Harry Bosch Novel, 22)",
+    "authors": "Michael Connelly",
+    "genre": "Mystery, Thriller & Suspense",
+    "coverImage": "https://images-na.ssl-images-amazon.com/images/I/41zqZwXZ-WL._SY291_BO1,204,203,200_QL40_FMwebp_.jpg",
+    "rating": 3.4,
+    "price": 14193
+  },
+  {
+    "id": 870,
+    "title": "The Immortal Life of Henrietta Lacks",
+    "authors": "Rebecca Skloot",
+    "genre": "Politics & Social Sciences",
+    "coverImage": "https://images-na.ssl-images-amazon.com/images/I/51e5fLnlCCL._SY291_BO1,204,203,200_QL40_FMwebp_.jpg",
+    "rating": 4.9,
+    "price": 22234
+  },
+  {
+    "id": 637,
+    "title": "The Invisible Life of Addie LaRue",
+    "authors": "V. E. Schwab",
+    "genre": "Literature & Fiction",
+    "coverImage": "https://images-na.ssl-images-amazon.com/images/I/51FVPBt51ZL._SY291_BO1,204,203,200_QL40_FMwebp_.jpg",
+    "rating": 3.3,
+    "price": 22887
+  },
+  {
+    "id": 1298,
+    "title": "Homo Deus: A Brief History of Tomorrow",
+    "authors": "by HARARI YUVAL NOAH (Author)",
+    "genre": "Science & Math",
+    "coverImage": "https://images-na.ssl-images-amazon.com/images/I/41x9l0H2UGL._SY291_BO1,204,203,200_QL40_FMwebp_.jpg",
+    "rating": 4.3,
+    "price": 23988
+  },
+
+  {
+    "id": 393,
+    "title": "Harry Potter and the Chamber of Secrets (2)",
+    "authors": "J. K. Rowling",
+    "genre": "Children's Books",
+    "coverImage": "https://images-na.ssl-images-amazon.com/images/I/51mFoFmu0EL._SY291_BO1,204,203,200_QL40_FMwebp_.jpg",
+    "rating": 3.7,
+    "price": 12534
+  },
+  {
+    "id": 1378,
+    "title": "The Book of Lost Friends: A Novel",
+    "authors": "Lisa Wingate",
+    "genre": "Literature & Fiction",
+    "coverImage": "https://images-na.ssl-images-amazon.com/images/I/51VveSsa2aS._SY291_BO1,204,203,200_QL40_FMwebp_.jpg",
+    "rating": 3.7,
+    "price": 5955
+  },
+  {
+    "title": "The Cloud at Your Service",
+    "author": "Arthur Mateos",
+    "genre": "Programming",
+    "coverImage": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/rosenberg.jpg",
+    "rating": 3.1,
+    "price": 29819
+  },
+  {
+    "title": "Struts in Action",
+    "author": "Cedric Dumoulin",
+    "genre": "Programming",
+    "coverImage": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/husted.jpg",
+    "rating": 4.9,
+    "price": 27306
+  },
+  {
+    "title": "ASP.NET MVC in Action",
+    "author": "Ben Scheirman",
+    "genre": "Programming",
+    "coverImage": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/palermo.jpg",
+    "description": "ASP.NET MVC in Action is a guide to pragmatic MVC-based web development. After a thorough overview, it dives into issues of architecture and maintainability. The book assumes basic knowledge of ASP.NET (v. 3.5) and expands your expertise.",
+    "rating": 4.4,
+    "price": 22776
+  },
+  {
+    "title": "Struts 2 in Action",
+    "author": "Chad Michael Davis",
+    "genre": "Programming",
+    "coverImage": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/dbrown.jpg",
+    "rating": 4.8,
+    "price": 29933
+  },
+  {
+    "title": "Building Well-Structured JavaScript Applications",
+    "author": " Nicolas Bevacqua",
+    "genre": "Programming",
+    "coverImage": "https://m.media-amazon.com/images/I/419MjQG41bL._SX342_SY445_.jpg",
+    "rating": 4.2,
+    "price": 25995
+  },
+  {
+    "title": "Database Programming for Handheld Devices",
+    "author": "Kouros Gorgani",
+    "genre": "Programming",
+    "coverImage": "https://m.media-amazon.com/images/I/51RMWHBAFPL._SY425_.jpg",
+    "rating": 4.1,
+    "price": 19571
+  },
+  {
+    "title": "Learn Windows IIS in a Month of Lunches",
+    "genre": "Programming",
+    "coverImage": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/helmick.jpg",
+    "rating": 4.4,
+    "price": 8612
+  },
+  {
+    "title": "Spring in Action, Fourth Edition",
+    "genre": "Programming",
+    "coverImage": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/walls5.jpg",
+    "rating": 4,
+    "price": 29891
+  },
+  {
+    "title": "OpenStack in Action",
+    "genre": "Programming",
+    "coverImage": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/bumgardner.jpg",
+    "rating": 3.1,
+    "price": 28807
+  },
+
+  {
+    "id": 1359,
+    "title": "The Complete Mediterranean Cookbook: 500 Vibrant, Kitchen-Tested Recipes for Living and Eating Well Every Day (The Complete ATK Cookbook Series)",
+    "authors": "America's Test Kitchen",
+    "genre": "Cookbooks, Food & Wine",
+    "coverImage": "https://images-na.ssl-images-amazon.com/images/I/61KArZmlymL._SX218_BO1,204,203,200_QL40_FMwebp_.jpg",
+    "rating": 5,
+    "price": 13883
+  },
+
+  {
+    "id": 1419,
+    "title": "The Terminal List: A Thriller",
+    "authors": "Jack Carr",
+    "genre": "Literature & Fiction",
+    "coverImage": "https://images-na.ssl-images-amazon.com/images/I/41m6tyMLijL._SY291_BO1,204,203,200_QL40_FMwebp_.jpg",
+    "rating": 4.4,
+    "price": 29357
+  },
+
+  {
+    "id": 1372,
+    "title": "Scissor Skills Preschool Workbook for Kids: A Fun Cutting Practice Activity Book for Toddlers and Kids ages 3-5: Scissor Practice for Preschool ... 40 Pages of Fun Animals, Shapes and Patterns",
+    "authors": "Modern Kid Press",
+    "genre": "Children's Books",
+    "coverImage": "https://images-na.ssl-images-amazon.com/images/I/51X03hhd8fL._SX218_BO1,204,203,200_QL40_FMwebp_.jpg",
+    "rating": 3.1,
+    "price": 7236
+  },
+
+  {
+    "id": 306,
+    "title": "Dragonfly in Amber (Outlander, Book 2)",
+    "authors": "Diana Gabaldon",
+    "genre": "Literature & Fiction",
+    "coverImage": "https://images-na.ssl-images-amazon.com/images/I/41WN9brgivL._SY291_BO1,204,203,200_QL40_ML2_.jpg",
+    "rating": 4,
+    "price": 23436
+  },
+
+  {
+    "id": 226,
+    "title": "Troubled Blood (A Cormoran Strike Novel, 5)",
+    "authors": "Robert Galbraith",
+    "genre": "Mystery, Thriller & Suspense",
+    "coverImage": "https://images-na.ssl-images-amazon.com/images/I/51OsB2f-lQL._SY291_BO1,204,203,200_QL40_ML2_.jpg",
+    "rating": 4.5,
+    "price": 10541
+  },
+  {
+    "id": 639,
+    "title": "Deacon King Kong: A Novel",
+    "authors": "James McBride",
+    "genre": "Literature & Fiction",
+    "coverImage": "https://images-na.ssl-images-amazon.com/images/I/51Qi4HmgwLL._SY291_BO1,204,203,200_QL40_FMwebp_.jpg",
+    "rating": 4.5,
+    "price": 7423
+  },
+  {
+    "id": 429,
+    "title": "A Christmas Carol (Dover Thrift Editions)",
+    "authors": "Charles Dickens",
+    "genre": "Christian Books & Bibles",
+    "coverImage": "https://images-na.ssl-images-amazon.com/images/I/51BRa8cjReL._SY291_BO1,204,203,200_QL40_ML2_.jpg",
+    "rating": 3.7,
+    "price": 22158
+  },
+
+  {
+    "id": 365,
+    "title": "Big Little Lies",
+    "authors": "Liane Moriarty",
+    "genre": "Mystery, Thriller & Suspense",
+    "coverImage": "https://images-na.ssl-images-amazon.com/images/I/510gP8gOxAL._SY291_BO1,204,203,200_QL40_FMwebp_.jpg",
+    "rating": 4.9,
+    "price": 20481
+  },
+
+  {
+    "id": 169,
+    "title": "Ready Player One",
+    "authors": "Ernest Cline",
+    "genre": "Humor & Entertainment",
+    "coverImage": "https://images-na.ssl-images-amazon.com/images/I/513bt3JnCeL._SY291_BO1,204,203,200_QL40_FMwebp_.jpg",
+    "rating": 3.6,
+    "price": 29772
+  },
+
+  {
+    "title": "HTML5 in Action",
+    "author": "Joe Lennon",
+    "genre": "Programming",
+    "coverImage": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/crowther2.jpg",
+    "description": "HTML5 In Action provides a complete introduction to web development using HTML5. You'll explore every aspect of the HTML5 specification through real-world examples and code samples. It's much more than just a specification reference, though. It lives up to the name HTML5 in Action by giving you the practical, hands-on guidance you'll need to use key features.",
+    "rating": 4.2,
+    "price": 26222
+  },
+  {
+    "title": "Enhancing Java Core Libraries with Collections",
+    "genre": "Programming",
+    "coverImage": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/goyal7.jpg",
+    "rating": 4.9,
+    "price": 6451
+  },
+  {
+    "title": "Barcodes with iOS",
+    "genre": "Programming",
+    "coverImage": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/drobnik.jpg",
+    "rating": 4.1,
+    "price": 29724
+  },
+  {
+    "title": "Play for Java",
+    "author": "Sietse de Kaper",
+    "genre": "Programming",
+    "coverImage": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/leroux.jpg",
+    "rating": 3.4,
+    "price": 13848
+  },
+  {
+    "id": 644,
+    "title": "Eleanor Oliphant Is Completely Fine: A Novel",
+    "authors": "Gail Honeyman",
+    "genre": "Literature & Fiction",
+    "coverImage": "https://images-na.ssl-images-amazon.com/images/I/512cLuxc5mL._SY291_BO1,204,203,200_QL40_ML2_.jpg",
+    "rating": 4.7,
+    "price": 9644
+  },
+  {
+    "id": 388,
+    "title": "Harry Potter and the Chamber of Secrets (2)",
+    "authors": "J. K. Rowling",
+    "genre": "Children's Books",
+    "coverImage": "https://images-na.ssl-images-amazon.com/images/I/51mFoFmu0EL._SY291_BO1,204,203,200_QL40_FMwebp_.jpg",
+    "rating": 3.2,
+    "price": 5187
+  },
+  {
+    "id": 958,
+    "title": "The Sun and Her Flowers",
+    "authors": "Rupi Kaur",
+    "genre": "Literature & Fiction",
+    "coverImage": "https://images-na.ssl-images-amazon.com/images/I/412HlyX42zL._SY291_BO1,204,203,200_QL40_FMwebp_.jpg",
+    "rating": 3.1,
+    "price": 21111
+  },
+  {
+    "id": 279,
+    "title": "Holes",
+    "authors": "Louis Sachar",
+    "genre": "Children's Books",
+    "coverImage": "https://images-na.ssl-images-amazon.com/images/I/516ae4UcBeL._SY291_BO1,204,203,200_QL40_FMwebp_.jpg",
+    "rating": 4.1,
+    "price": 18971
+  },
+  {
+    "id": 905,
+    "title": "The Last Olympian (Percy Jackson and the Olympians, Book 5)",
+    "authors": "Rick Riordan",
+    "genre": "Teen & Young Adult",
+    "coverImage": "https://images-na.ssl-images-amazon.com/images/I/51hroSDp5cL._SY291_BO1,204,203,200_QL40_FMwebp_.jpg",
+    "rating": 4.9,
+    "price": 25107
+  },
+  {
+    "id": 1142,
+    "title": "Elsewhere",
+    "authors": "Dean Koontz",
+    "genre": "Literature & Fiction",
+    "coverImage": "https://images-na.ssl-images-amazon.com/images/I/51OZemIo9iL._SY291_BO1,204,203,200_QL40_FMwebp_.jpg",
+    "rating": 4.5,
+    "price": 7623
+  },
+  {
+    "id": 1257,
+    "title": "A Court of Mist and Fury (A Court of Thorns and Roses)",
+    "authors": "Sarah J. Maas",
+    "genre": "Science Fiction & Fantasy",
+    "coverImage": "https://images-na.ssl-images-amazon.com/images/I/51uyrF1JUVL._SY291_BO1,204,203,200_QL40_FMwebp_.jpg",
+    "rating": 4.6,
+    "price": 23787
+  },
+  {
+    "id": 929,
+    "title": "Dune: Book One in the Dune Chronicles",
+    "authors": "Frank Herbert",
+    "genre": "Science Fiction & Fantasy",
+    "coverImage": "https://images-na.ssl-images-amazon.com/images/I/41dQu5Rv3bL._SX218_BO1,204,203,200_QL40_FMwebp_.jpg",
+    "rating": 3.4,
+    "price": 21692
+  },
+  {
+    "id": 541,
+    "title": "The Testaments: A Novel (The Handmaid's Tale)",
+    "authors": "Margaret Atwood",
+    "genre": "Literature & Fiction",
+    "coverImage": "https://images-na.ssl-images-amazon.com/images/I/41rGlpvyRbL._SY291_BO1,204,203,200_QL40_FMwebp_.jpg",
+    "rating": 3.1,
+    "price": 29251
+  },
+  {
+    "id": 1377,
+    "title": "The Book of Lost Friends: A Novel",
+    "authors": "Lisa Wingate",
+    "genre": "Literature & Fiction",
+    "coverImage": "https://images-na.ssl-images-amazon.com/images/I/51VveSsa2aS._SY291_BO1,204,203,200_QL40_FMwebp_.jpg",
+    "rating": 3.6,
+    "price": 25357
+  },
+  {
+    "id": 1017,
+    "title": "American Marxism",
+    "authors": "Mark R. Levin",
+    "genre": "Politics & Social Sciences",
+    "coverImage": "https://images-na.ssl-images-amazon.com/images/I/51gGgVnODsL._SY291_BO1,204,203,200_QL40_FMwebp_.jpg",
+    "rating": 3.1,
+    "price": 5367
+  },
+  {
+    "id": 401,
+    "title": "Harry Potter and the Half-Blood Prince (Book 6)",
+    "authors": "J.K. Rowling",
+    "genre": "Children's Books",
+    "coverImage": "https://images-na.ssl-images-amazon.com/images/I/51nRdIU2qHL._SY291_BO1,204,203,200_QL40_FMwebp_.jpg",
+    "rating": 4.1,
+    "price": 27273
+  },
+  {
+    "id": 289,
+    "title": "The Book Thief",
+    "authors": "Markus Zusak",
+    "genre": "Children's Books",
+    "coverImage": "https://images-na.ssl-images-amazon.com/images/I/51C8Tg0TCaL._SY291_BO1,204,203,200_QL40_FMwebp_.jpg",
+    "rating": 4.4,
+    "price": 14465
+  },
+  {
+    "id": 252,
+    "title": "Women Who Run with the Wolves: Myths and Stories of the Wild Woman Archetype",
+    "authors": "by Clarissa Pinkola Estés (Author)",
+    "genre": "Health, Fitness & Dieting",
+    "coverImage": "https://images-na.ssl-images-amazon.com/images/I/51G1xSEMQQL._SY291_BO1,204,203,200_QL40_FMwebp_.jpg",
+    "rating": 3.1,
+    "price": 28910
+  },
+  {
+    "id": 1394,
+    "title": "The Push: A Novel",
+    "authors": "Ashley Audrain",
+    "genre": "Literature & Fiction",
+    "coverImage": "https://images-na.ssl-images-amazon.com/images/I/418kM-qrWwL._SY291_BO1,204,203,200_QL40_FMwebp_.jpg",
+    "rating": 4.7,
+    "price": 6283
+  },
+  {
+    "id": 319,
+    "title": "The Handmaid's Tale",
+    "authors": "Margaret Atwood",
+    "genre": "Literature & Fiction",
+    "coverImage": "https://images-na.ssl-images-amazon.com/images/I/41vgWYsM82L._SY291_BO1,204,203,200_QL40_FMwebp_.jpg",
+    "rating": 3.5,
+    "price": 19860
+  },
+  {
+    "id": 422,
+    "title": "1984",
+    "authors": "George Orwell",
+    "genre": "Literature & Fiction",
+    "coverImage": "https://images-na.ssl-images-amazon.com/images/I/41DoIQLHzlL._SY291_BO1,204,203,200_QL40_FMwebp_.jpg",
+    "rating": 3.4,
+    "price": 22886
+  },
+  {
+    "id": 586,
+    "title": "Mexican Gothic",
+    "authors": "Silvia Moreno-Garcia",
+    "genre": "Literature & Fiction",
+    "coverImage": "https://images-na.ssl-images-amazon.com/images/I/51-cpoVG7WL._SY291_BO1,204,203,200_QL40_FMwebp_.jpg",
+    "rating": 3.6,
+    "price": 7591
+  },
+  {
+    "id": 388,
+    "title": "Harry Potter and the Chamber of Secrets (2)",
+    "authors": "J. K. Rowling",
+    "genre": "Children's Books",
+    "coverImage": "https://images-na.ssl-images-amazon.com/images/I/51mFoFmu0EL._SY291_BO1,204,203,200_QL40_FMwebp_.jpg",
+    "rating": 3.2,
+    "price": 5187
+  },
+  {
+    "id": 1267,
+    "title": "The Girl Who Lived: A Thrilling Suspense Novel",
+    "authors": "Christopher Greyson",
+    "genre": "Mystery, Thriller & Suspense",
+    "coverImage": "https://images-na.ssl-images-amazon.com/images/I/51uTPQIJ6WL._SY291_BO1,204,203,200_QL40_FMwebp_.jpg",
+    "rating": 4.3,
+    "price": 11872
+  }
+]
