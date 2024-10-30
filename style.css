@@ -575,6 +575,26 @@ main {
   color: #7f56d9;
 }
 
+/****************************************
+Error Page
+******************************************/
+.error-page {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  margin-bottom: 5em;
+}
+.error-image {
+  width: 100%;
+}
+
+.error-page p {
+  font-weight: 700;
+  color: #535862;
+  text-align: center;
+}
+
 @media screen and (max-width: 1134px) {
 }
 

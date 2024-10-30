@@ -35,6 +35,7 @@ window.addEventListener("load", () => {
 // });
 
 async function expandList(element) {
+  console.log("expand");
   const filterType = element.getAttribute("data-filter");
   const filterList = document.querySelector(`[data-content="${filterType}"]`);
   //chevron icons
@@ -109,7 +110,7 @@ async function displayBooks(data) {
       const errorPage = document.createElement("div");
       errorPage.innerHTML = `
         <div class="error-page" id="error-page">
-            <img src="./assets//illustration.gif" alt="no kooks found">
+            <img class="error-image" src="./assets//illustration.gif" alt="no kooks found">
             <p>Sorry, No matches found! Try a different title, author, or genre. </p>
         </div>
       `;
