@@ -743,9 +743,13 @@ Error Page
   .nav-links {
     display: none;
   }
+  .hide {
+    display: none;
+  }
   .nav-links-mobile {
     display: flex;
     flex-direction: column;
+    transition: all 0.2s ease-in-out;
   }
   .nav-links-mobile li {
     height: 50px;

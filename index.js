@@ -248,7 +248,7 @@ function handleFilterToggle(e) {
 // Expand side bar
 
 const hamburgar = document.getElementById("hamburger");
-const sideBar = document.getElementById("side-bar");
+const sideBar = document.getElementById("side-bar-mobile");
 // const navLin
 document.addEventListener("click", handleToggleSidebar);
 
@@ -261,13 +261,15 @@ function handleToggleSidebar() {
   if (!sideBarState) {
     console.log("close");
     sideBar.classList.add("hide");
-    sideBar.classList.remove("show");
+    hamburgar.innerText = "menu";
+    // sideBar.classList.remove(".nav-links-mobile");
     console.log(sideBar);
   }
   if (sideBarState) {
     console.log("open");
-    sideBar.classList.add("show");
+    // sideBar.classList.add(".nav-links-mobile");
     sideBar.classList.remove("hide");
+    hamburgar.innerText = "close";
 
     console.log(sideBar);
   }
