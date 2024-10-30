@@ -16,16 +16,16 @@
     <link rel="stylesheet" href="style.css" />
   </head>
   <body>
-    <div id="preloader">
+    <!-- <div id="preloader">
       <div class="spinner"></div>
-    </div>
+    </div> -->
     <div class="container" id="main-content">
       <header>
         <div class="logo-nav-container">
-          <span class="hamburger-icon material-symbols-outlined">
+          <span class="hamburger-icon material-symbols-outlined" id="hamburger">
             menu
             </span>
-          <div class="logo-container">
+          <div class="logo-container logo-container-lg">
             <img class="logo-img" src="/assets/logo100.png" alt="logo" />
           </div>
           <nav>
@@ -45,6 +45,54 @@
             </ul>
           </nav>
         </div>
+
+        <nav class="side-bar-mobile" id="side-bar-mobile">
+          <div class="logo-container">
+            <img class="logo-img" src="/assets/logo100.png" alt="logo" />
+          </div>
+          
+          <nav>
+            <ul class="nav-links-mobile">
+              <li>
+                <lord-icon
+                    src="https://cdn.lordicon.com/wmwqvixz.json"
+                    trigger="hover"
+                    class="nav-icons"
+                    style="width:25px;height:25px">
+                </lord-icon>
+                <a href="#">Home</a>
+              </li>
+              <li>
+                <lord-icon
+                    src="https://cdn.lordicon.com/jnikqyih.json"
+                    trigger="hover"
+                    class="nav-icons"
+                    style="width:25px;height:25px">
+                </lord-icon>
+
+                <a href="#">Categories</a>
+              </li>
+              <li>
+                <lord-icon
+                    src="https://cdn.lordicon.com/mqdkoaef.json"
+                    trigger="hover"
+                    class="nav-icons"
+                    style="width:25px;height:25px">
+                </lord-icon>
+                <a href="#">Shop</a>
+              </li>
+              <li>
+                <lord-icon
+                    src="https://cdn.lordicon.com/depeqmsz.json"
+                    trigger="hover"
+                    class="nav-icons"
+                    style="width:25px;height:25px">
+                </lord-icon>
+                <a href="#">Authors</a>
+              </li>
+            </ul>
+          </nav>
+        </nav>
 
         <div class="search-cart-container">
           <form class="search-form" id="search-form">
@@ -105,7 +153,7 @@
                 </lord-icon>
               </button>
 
-              
+             
             </div>
             <!-- <p class="search-result-number"><span>20</span> search results</p> -->
           </form>

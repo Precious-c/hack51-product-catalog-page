@@ -110,7 +110,7 @@ async function displayBooks(data) {
       const errorPage = document.createElement("div");
       errorPage.innerHTML = `
         <div class="error-page" id="error-page">
-            <img class="error-image" src="./assets//illustration.gif" alt="no kooks found">
+            <img class="error-image" src="./assets//illustration.gif" alt="no kooks found">'
             <p>Sorry, No matches found! Try a different title, author, or genre. </p>
         </div>
       `;
@@ -242,6 +242,34 @@ function handleFilterToggle(e) {
   if (toggleState) {
     filterSection.classList.add("filter-section-show");
     filterSection.classList.remove("filter-section-hide");
+  }
+}
+
+// Expand side bar
+
+const hamburgar = document.getElementById("hamburger");
+const sideBar = document.getElementById("side-bar");
+// const navLin
+document.addEventListener("click", handleToggleSidebar);
+
+let sideBarState = false;
+
+function handleToggleSidebar() {
+  console.log("hhh");
+  sideBarState = !sideBarState;
+  console.log(sideBarState);
+  if (!sideBarState) {
+    console.log("close");
+    sideBar.classList.add("hide");
+    sideBar.classList.remove("show");
+    console.log(sideBar);
+  }
+  if (sideBarState) {
+    console.log("open");
+    sideBar.classList.add("show");
+    sideBar.classList.remove("hide");
+
+    console.log(sideBar);
   }
 }
 
