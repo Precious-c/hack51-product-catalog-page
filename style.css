@@ -116,6 +116,12 @@ li {
   padding-left:5%; */
 }
 
+.nav-icons,
+.hamburger-icon,
+.header-icons {
+  -webkit-tap-highlight-color: transparent;
+}
+
 /* Header Styles */
 header {
   width: 100%;
@@ -781,6 +787,7 @@ Error Page
     margin-right: 1em;
     color: #7f56d9;
     width: 40px;
+    -webkit-tap-highlight-color: transparent;
   }
   .hamburger-icon:hover {
     cursor: pointer;
