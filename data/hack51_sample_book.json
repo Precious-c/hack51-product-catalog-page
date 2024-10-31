@@ -5,7 +5,7 @@
     "genre": "Fiction",
     "coverImage": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1398034300i/5107.jpg",
     "rating": 4.9,
-    "price": 25000
+    "price": 9600
   },
   {
     "title": "To Kill a Mockingbird",
@@ -13,7 +13,7 @@
     "genre": "Fiction",
     "coverImage": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1553383690i/2657.jpg",
     "rating": 3.2,
-    "price": 25000
+    "price": 21500
   },
   {
     "title": "1984",
@@ -21,7 +21,7 @@
     "genre": "Dystopian",
     "coverImage": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1657781256i/61439040.jpg",
     "rating": 4.1,
-    "price": 25000
+    "price": 12300
   },
   {
     "title": "A Brief History of Time",
@@ -29,7 +29,7 @@
     "genre": "Science",
     "coverImage": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1333578746i/3869.jpg",
     "rating": 4.2,
-    "price": 25000
+    "price": 17220
   },
   {
     "title": "The Great Gatsby",
@@ -37,7 +37,7 @@
     "genre": "Classics",
     "coverImage": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1490528560i/4671.jpg",
     "rating": 3.9,
-    "price": 25000
+    "price": 40520
   },
   {
     "title": "The Lean Startup",
@@ -45,7 +45,7 @@
     "genre": "Business",
     "coverImage": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1629999184i/10127019.jpg",
     "rating": 4.1,
-    "price": 25000
+    "price": 24300
   },
   {
     "title": "The Art of War",
@@ -53,7 +53,7 @@
     "genre": "Philosophy",
     "coverImage": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1630683326i/10534.jpg",
     "rating": 3.9,
-    "price": 25000
+    "price": 21400
   },
   {
     "title": "Pride and Prejudice",
@@ -61,7 +61,7 @@
     "genre": "Romance",
     "coverImage": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1320399351i/1885.jpg",
     "rating": 4.2,
-    "price": 25000
+    "price": 14200
   },
   {
     "title": "Sapiens: A Brief History of Humankind",
@@ -69,7 +69,7 @@
     "genre": "History",
     "coverImage": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1703329310i/23692271.jpg",
     "rating": 4.3,
-    "price": 25000
+    "price": 14500
   },
   {
     "title": "The Road",
@@ -77,7 +77,7 @@
     "genre": "Post-Apocalyptic",
     "coverImage": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1600241424i/6288.jpg",
     "rating": 3.9,
-    "price": 25000
+    "price": 13520
   },
   {
     "title": "The Pragmatic Programmer",
@@ -85,7 +85,7 @@
     "genre": "Technology",
     "coverImage": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1401432508i/4099.jpg",
     "rating": 4.3,
-    "price": 25000
+    "price": 6000
   },
   {
     "title": "Clean Code",
@@ -93,7 +93,7 @@
     "genre": "Technology",
     "coverImage": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1436202607i/3735293.jpg",
     "rating": 4.3,
-    "price": 25000
+    "price": 35250
   },
   {
     "title": "Design Patterns",
@@ -101,7 +101,7 @@
     "genre": "Technology",
     "coverImage": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1348027904i/85009.jpg",
     "rating": 4.2,
-    "price": 25000
+    "price": 30000
   },
   {
     "title": "The Design of Everyday Things",
@@ -109,7 +109,7 @@
     "genre": "Design",
     "coverImage": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1442460745i/840.jpg",
     "rating": 4.1,
-    "price": 25000
+    "price": 15000
   },
   {
     "title": "Cracking the Coding Interview",
@@ -125,7 +125,7 @@
     "genre": "Self-Help",
     "coverImage": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1545854312i/12609433.jpg",
     "rating": 4.1,
-    "price": 25000
+    "price": 35250
   },
   {
     "title": "Atomic Habits",
@@ -133,7 +133,7 @@
     "genre": "Self-Help",
     "coverImage": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1655988385i/40121378.jpg",
     "rating": 4.3,
-    "price": 25000
+    "price": 7050
   },
   {
     "title": "The Subtle Art of Not Giving a F*ck",
@@ -141,7 +141,7 @@
     "genre": "Self-Help",
     "coverImage": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1465761302i/28257707.jpg",
     "rating": 3.8,
-    "price": 25000
+    "price": 27100
   },
   {
     "title": "Thinking, Fast and Slow",
@@ -149,7 +149,7 @@
     "genre": "Psychology",
     "coverImage": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1317793965i/11468377.jpg",
     "rating": 4.1,
-    "price": 25000
+    "price": 11200
   },
   {
     "title": "Meditations",
@@ -157,7 +157,7 @@
     "genre": "Philosophy",
     "coverImage": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1421618636i/30659.jpg",
     "rating": 4.2,
-    "price": 25000
+    "price": 24010
   },
 
   {
