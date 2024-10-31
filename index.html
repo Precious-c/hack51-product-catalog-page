@@ -17,15 +17,14 @@
     <link rel="stylesheet" href="style.css" />
   </head>
   <body>
-    <!-- <div id="preloader">
+    <div id="preloader">
       <div class="spinner"></div>
-    </div> -->
+    </div>
     <div class="container" id="main-content">
       <header>
         <div class="logo-nav-container">
-          <span class="hamburger-icon material-symbols-outlined" id="hamburger">
-            menu
-            </span>
+          <img src="./assets/menu1.svg" alt="" id="hamburger" class="hamburger-icon">
+          
             
           <div class="logo-container logo-container-lg">
             <img class="logo-img" src="/assets/logo100.png" alt="logo" />
@@ -48,7 +47,7 @@
           </nav>
         </div>
 
-        <nav class="side-bar-mobile" id="side-bar-mobile">
+        <nav class="side-bar-mobile hide" id="side-bar-mobile">
           <div class="logo-container">
             <img class="logo-img" src="/assets/logo100.png" alt="logo" />
           </div>
@@ -98,6 +97,15 @@
 
         <div class="search-cart-container">
           <form class="search-form" id="search-form">
+            <!-- <div> -->
+              <!-- <span class="select-heading">Search by: </span> -->
+              <select name="searchBy" id="search-by" class="select search-by">
+
+                <option class="search-by-options" value="">Search by</option>
+                <option class="search-by-options" value="title">Title</option>
+                <option class="search-by-options" value="author">Author</option>
+              </select>
+            <!-- </div> -->
             <input type="text" placeholder="Search" id="search-input" />
             <button type="submit" class="btn search-btn">
               <lord-icon
@@ -144,6 +152,12 @@
           <form class="search-forms search-form-wd" id="search-form-wd">
             <h3 class="search-caption">Search by Title or Author to Discover New Books</h3>
             <div class="search-box">
+              <select name="searchBy" id="search-by" class="select search-by">
+
+                <option class="search-by-options" value="">Search by</option>
+                <option class="search-by-options" value="title">Title</option>
+                <option class="search-by-options" value="author">Author</option>
+              </select>
               <input type="text" placeholder="Search by title or author" id="search-input-wd" />
               <button type="submit" class="btn search-btn">
                 <lord-icon
@@ -162,7 +176,13 @@
         </section>
 
         <section class="catalog-section">
-          <div class="filter-toggle-container" id="filter-toggle"><img class="filter-icon" src="./assets/filter.svg" alt="filter"/><span>Filter</span></div>
+          <div class="options-container">
+            
+            <div class="filter-toggle-container" id="filter-toggle">
+              <img class="filter-icon" src="./assets/filter.svg" alt="filter"/>
+              <span class="filter-text">Filter</span>
+            </div>
+          </div>
           <div class="filter-section" id="filter-section">
             <div class="filter-container" id="genre-filter">
               <p class="filter-title expand" onclick="expandList(this)">Filter by Genre</p>
@@ -206,8 +226,8 @@
                 </div>
               </div>
               <p class="price-display">
-                Price: <span class="min-price-value"> 6000</span> -
-                <span class="max-price-value">9000</span>
+                <!-- Price: <span class="min-price-value"> 6000</span> -
+                <span class="max-price-value">9000</span> -->
               </p>
             </div>
 

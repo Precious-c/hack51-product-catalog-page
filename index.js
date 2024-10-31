@@ -1,7 +1,7 @@
 let rating = 0;
 let toggleState = false;
 
-// //Preloader
+//Preloader
 window.addEventListener("load", () => {
   const preloader = document.getElementById("preloader");
   const mainContent = document.getElementById("main-content");
@@ -11,31 +11,7 @@ window.addEventListener("load", () => {
   mainContent.style.display = "block";
 });
 
-// Function to show the preloader
-// function showPreloader() {
-//   document.getElementById("preloader").style.display = "flex";
-// }
-
-// // Function to hide the preloader
-// function hidePreloader() {
-//   document.getElementById("preloader").style.display = "none";
-// }
-
-// Flash of Unstyled Content HAck
-// // Helper function
-// let domReady = (cb) => {
-//   document.readyState === "interactive" || document.readyState === "complete"
-//     ? cb()
-//     : document.addEventListener("DOMContentLoaded", cb);
-// };
-
-// domReady(() => {
-//   // Display body when DOM is loaded
-//   document.body.style.visibility = "visible";
-// });
-
 async function expandList(element) {
-  console.log("expand");
   const filterType = element.getAttribute("data-filter");
   const filterList = document.querySelector(`[data-content="${filterType}"]`);
   //chevron icons
@@ -166,7 +142,6 @@ async function handleFilter() {
 
   //filter genre
   if (genres.length !== 0) {
-    console.log("ran genres");
     filteredBooks = booksData.filter((book) => {
       return genres.some((item) => new RegExp(item, "i").test(book.genre));
     });
@@ -181,7 +156,6 @@ async function handleFilter() {
 
   //filter rating
   if (rating) {
-    console.log("ran rating");
     filteredBooks = filteredBooks.filter((book) => book.rating >= rating);
   }
 
@@ -203,21 +177,35 @@ async function searchHandler(e) {
   const resposne = await fetch("./data/hack51_sample_book.json");
   const booksData = await resposne.json();
 
-  console.log(e.target.id);
-  console.log(searchForm.id, searchFormWd.id);
   let searchResults = [];
-  if (e.target.id === searchForm.id) {
-    searchResults = booksData.filter((book) => {
-      const regex = new RegExp(searchInput.value, "i");
-      return regex.test(book.title);
-    });
-  }
+  const searchBy = document.getElementsByClassName("search-by");
 
-  if (e.target.id === searchFormWd.id) {
-    searchResults = booksData.filter((book) => {
-      const regex = new RegExp(searchInputWd.value, "i");
-      return regex.test(book.title);
-    });
+  if (searchBy[0].value === "author" || searchBy[1].value === "author") {
+    if (e.target.id === searchForm.id) {
+      searchResults = booksData.filter((book) => {
+        const regex = new RegExp(searchInput.value, "i");
+        return regex.test(book.author);
+      });
+    }
+    if (e.target.id === searchFormWd.id) {
+      searchResults = booksData.filter((book) => {
+        const regex = new RegExp(searchInputWd.value, "i");
+        return regex.test(book.author);
+      });
+    }
+  } else {
+    if (e.target.id === searchForm.id) {
+      searchResults = booksData.filter((book) => {
+        const regex = new RegExp(searchInput.value, "i");
+        return regex.test(book.title);
+      });
+    }
+    if (e.target.id === searchFormWd.id) {
+      searchResults = booksData.filter((book) => {
+        const regex = new RegExp(searchInputWd.value, "i");
+        return regex.test(book.title);
+      });
+    }
   }
 
   displayBooks(searchResults);
@@ -234,7 +222,6 @@ filterToggle.addEventListener("click", handleFilterToggle);
 
 function handleFilterToggle(e) {
   toggleState = !toggleState;
-  console.log({ toggleState });
   if (!toggleState) {
     filterSection.classList.add("filter-section-hide");
     filterSection.classList.remove("filter-section-show");
@@ -249,29 +236,19 @@ function handleFilterToggle(e) {
 
 const hamburgar = document.getElementById("hamburger");
 const sideBar = document.getElementById("side-bar-mobile");
-// const navLin
-document.addEventListener("click", handleToggleSidebar);
+hamburgar.addEventListener("click", handleToggleSidebar);
 
 let sideBarState = false;
 
 function handleToggleSidebar() {
-  console.log("hhh");
   sideBarState = !sideBarState;
-  console.log(sideBarState);
   if (!sideBarState) {
-    console.log("close");
     sideBar.classList.add("hide");
-    hamburgar.innerText = "menu";
-    // sideBar.classList.remove(".nav-links-mobile");
-    console.log(sideBar);
+    hamburgar.src = `./assets/menu1.svg`;
   }
   if (sideBarState) {
-    console.log("open");
-    // sideBar.classList.add(".nav-links-mobile");
     sideBar.classList.remove("hide");
-    hamburgar.innerText = "close";
-
-    console.log(sideBar);
+    hamburgar.src = `./assets/menu.svg`;
   }
 }
 
