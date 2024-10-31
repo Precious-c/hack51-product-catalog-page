@@ -131,7 +131,7 @@ header {
   padding-right: 5%;
   padding-bottom: 1em;
   padding-left: 5%;
-  margin-bottom: 0.5em;
+  /* margin-bottom: 0.5em; */
   background-color: #fff;
 }
 
@@ -779,7 +779,7 @@ Error Page
   header {
     padding-top: 0.2em;
     padding-bottom: 0.2em;
-    margin-bottom: 0.7em;
+    /* margin-bottom: 0.7em; */
   }
 
   .hamburger-icon {
